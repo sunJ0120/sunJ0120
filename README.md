@@ -5,8 +5,6 @@
 
 <div align="center">
 
-**즐기면서 일하는게 목표인 흔한 개발자 지망생**
-
 <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 할 수 있는 ...
