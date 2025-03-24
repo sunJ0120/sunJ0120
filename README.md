@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&text=H!😉I'm_sunJ&fontSize=70&section=header"/>
-</div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbit&duration=1000&pause=1000&random=false&width=435&lines=%F0%9F%8F%83%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F+%EC%A6%90%EA%B8%B0%EB%8A%94+%EC%9E%90%EA%B0%80+%EC%9D%BC%EB%A5%98%EB%8B%A4" alt="Typing SVG" /></a>
-
-<div align="center">
 
 <details>
 <summary>
