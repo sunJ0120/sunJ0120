@@ -53,6 +53,7 @@
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sspure123" alt="solved.ac badge"/>
           </a>
        </div>
+      <br>
     </td>
     <td width="50%" valign="top">
       <div align="center">
