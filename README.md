@@ -71,6 +71,19 @@
        <h3>🌟 Favorite Language</h3>
       <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunJ0120&layout=compact&theme=tokyonight" />
+        <table align="center">
+          <tr>
+            <td>
+              🔥
+            </td>
+            <td>
+              <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="25" />
+            </td>
+            <td style="vertical-align: middle; padding-left: 8px;">
+              <span style="font-size: 16px;">love at first compile.</span>
+            </td>
+          </tr>
+        </table>
       </p>
          <br>
         <h3>🧩 Algorithm Level</h3>
