@@ -5,8 +5,6 @@
 <h3>Hi there!</h3>  
 점차 개발에 재미를 붙여가고 있는 백엔드 지망 개발자입니다.
 
-</div>
-
 ---
 
 ## 💻 My Tech Stack
@@ -24,27 +22,48 @@
 
 💡 호기심이 많아 여러가지 배워 보려고 노력중입니다.
 
-## 📌 **MY FAVORITE LANGUAGE!**
+---
+
+## 📌 My Favorite Language!
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunJ0120)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 🧾 Career & Education
 
-| 기간 | 내용 |
-|------|------|
-| 2024.01 | 📜 SQLD 자격증 취득 |
-| 2024.03 ~ 2024.06 | 🪙 졸업작품 - 시간은행 프로젝트 {캡스톤 3등 수상} |
-| 2024.08 | 🎓 국민대학교 졸업 (제1전공: 경영학부, 제2전공: 소프트웨어학부) |
-| 2024.10 | 🛠 정보처리기사 자격증 취득 |
-| 2025.04 ~ | 🏫 신한DS SW 아카데미 수료 중 |
+<table align="center">
+  <tr>
+    <th>기간</th>
+    <th>내용</th>
+  </tr>
+  <tr>
+    <td>2024.01</td>
+    <td>📜 SQLD 자격증 취득</td>
+  </tr>
+  <tr>
+    <td>2024.03 ~ 2024.06</td>
+    <td>🪙 졸업작품 - 시간은행 프로젝트 {캡스톤 3등 수상}</td>
+  </tr>
+  <tr>
+    <td>2024.08</td>
+    <td>🎓 국민대학교 졸업 (제1전공: 경영학부, 제2전공: 소프트웨어학부)</td>
+  </tr>
+  <tr>
+    <td>2024.10</td>
+    <td>🛠 정보처리기사 자격증 취득</td>
+  </tr>
+  <tr>
+    <td>2025.04 ~</td>
+    <td>🏫 신한DS SW 아카데미 수료 중</td>
+  </tr>
+</table>
 
 ---
 
 ## 🧠 Algorithm Level
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sspure123)](https://solved.ac/sspure123)
-<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sspure123)](https://solved.ac/sspure123)  
 💡 현재 백준 알고리즘 문제를 하루 한 개씩 꾸준히 풀고 있습니다.
 
 ---
@@ -59,12 +78,9 @@
 
 ## ✨ 추가적으로..
 
-- **성실함과 꾸준함**을 무기로, 매일 알고리즘을 풀이하고 GitHub에 정리 중입니다.
-- 금융과 개발을 연결짓는 프로젝트에 관심이 많으며, 실무에서 적용 가능한 기술을 탐구하고 배워가는 중입니다.
+- **성실함과 꾸준함**을 무기로, 매일 알고리즘을 풀이하고 GitHub에 정리 중입니다.  
+- 금융과 개발을 연결짓는 프로젝트에 관심이 많으며, 실무에서 적용 가능한 기술을 탐구하고 배워가는 중입니다.  
 - AI, 데이터 기반 프로젝트, 데이터 분석에도 점점 흥미를 느끼고 있습니다 🤖📊
 
----
-
-<div align="center">
-
 </div>
+
