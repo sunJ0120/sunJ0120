@@ -18,50 +18,74 @@
 </div>
 
 ---
+<div align="center">
 
+ <h3>💻 My Tech Stack</h3>
+ <br>
+      <table align="center">
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Database</th>
+    <th>Collaboration</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Servlet-3C78D8?style=for-the-badge&logo=java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+</div>
 <!-- ✅ 하단: 좌우 2단 정렬 (Tech Stack | Favorite + Career 등) -->
+
+---
+
+<div align="center">
+ 
+<h3>😁 Introduce MyStory!</h3>
+ <br>
 <table>
   <tr>
     <td width="50%" valign="top">
      <div align="center">
-      <h3>💻 My Tech Stack</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-        <br>
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Servlet-3C78D8?style=for-the-badge&logo=java&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/>
-      </p>
        <br>
-      <h3>👥 My Communication Stack</h3>
+       <h3>🌟 Favorite Language</h3>
       <p>
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunJ0120&layout=compact&theme=tokyonight" />
       </p>
-       <br>
+         <br>
         <h3>🧩 Algorithm Level</h3>
           <a href="https://solved.ac/sspure123">
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sspure123" alt="solved.ac badge"/>
           </a>
        </div>
+       <div align="center">
+         <br>
+          </div>
       <br>
     </td>
     <td width="50%" valign="top">
+      <br>
       <div align="center">
-      <h3>🌟 Favorite Language</h3>
-      <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunJ0120&layout=compact&theme=tokyonight" />
-      </p>
-         <br>
       <h3>🎓 Career & Education</h3>
       <table align="center">
   <tr>
@@ -89,16 +113,19 @@
     <td>🏫 신한DS SW 아카데미 ~ing</td>
   </tr>
 </table>
+        <div>
     </td>
 </table>
-
+</div>
+        
 ---
 
 <!-- ✅ 하단 단독: 알고리즘 / 활동 그래프 -->
 <div align="center">
-  <br>
+
 
   <h3>📊 GitHub Activity</h3>
+    <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunJ0120&theme=tokyo-night&hide_border=true" />
 
 </div>
