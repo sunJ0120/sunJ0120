@@ -36,6 +36,9 @@
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
         <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Servlet-3C78D8?style=for-the-badge&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/>
+        
       </p>
        <br><br>
         <h3>🧩 Algorithm Level</h3>
