@@ -38,9 +38,16 @@
         <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Servlet-3C78D8?style=for-the-badge&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/>
-        
       </p>
-       <br><br>
+       <br>
+      <h3>👥 My Communication Stack</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+      </p>
+       <br>
         <h3>🧩 Algorithm Level</h3>
           <a href="https://solved.ac/sspure123">
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sspure123" alt="solved.ac badge"/>
@@ -66,7 +73,7 @@
   </tr>
   <tr>
     <td>2024.03~06</td>
-    <td>🪙 시간은행 졸작 (캡스톤 어워즈 3등)</td>
+    <td>🪙 시간은행 프로젝트 (캡스톤 어워즈 3등)</td>
   </tr>
   <tr>
     <td>2024.08</td>
@@ -78,7 +85,7 @@
   </tr>
   <tr>
     <td>2025.04 ~</td>
-    <td>🏫 신한DS SW 아카데미 재학</td>
+    <td>🏫 신한DS SW 아카데미 ~ing</td>
   </tr>
 </table>
     </td>
