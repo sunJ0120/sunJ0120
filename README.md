@@ -8,11 +8,11 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&speed=1&pause=700&color=32CD32&center=true&vCenter=true&width=480&lines=Welcome+to+my+World!;Say+hi+to+my+pup👋🏻+🐶)
 
-  <p>점차 개발에 재미를 붙여가고 있는 <strong>백엔드 지망 개발자</strong>입니다.</p>
+  <p>점차 개발에 재미를 붙여가고 있는 <strong>백엔드 개발자 지망생</strong>입니다.</p>
 
   🧠 <strong>성실함과 꾸준함</strong>을 무기로, 매일 알고리즘을 풀이하고 GitHub에 정리 중입니다.  
-  💰 금융과 개발을 연결짓는 프로젝트에 관심이 많으며, 실무에서 적용 가능한 기술을 탐구하고 있어요.  
-  🤖 AI, 데이터 기반 프로젝트, 데이터 분석에도 점점 흥미를 느끼고 있습니다.
+  💰 금융과 개발을 연결짓는 프로젝트에 관심이 많으며, 여러 기술들을 공부하고 있습니다.  
+  🤖 AI, 데이터 기반 프로젝트, 데이터 분석에도 점점 흥미를 느끼고 있습니다:)
 
   <br>
 </div>
