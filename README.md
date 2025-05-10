@@ -10,9 +10,10 @@
 
   <p>점차 개발에 재미를 붙여가고 있는 <strong>백엔드 개발자 지망생</strong>입니다.</p>
 
-  🧠 <strong>성실함과 꾸준함</strong>을 무기로, 매일 알고리즘을 풀이하고 GitHub에 정리 중입니다.  
-  💰 금융과 개발을 연결짓는 프로젝트에 관심이 많으며, 여러 기술들을 공부하고 있습니다.  
-  🤖 AI, 데이터 기반 프로젝트, 데이터 분석에도 점점 흥미를 느끼고 있습니다:)
+  🎱  기능의 흐름을 시각적으로 정리하는 걸 좋아합니다 (시퀀스 다이어그램, 와이어프레임 등)<br>
+  🧠 <strong>성실함과 꾸준함</strong>을 무기로, 알고리즘을 풀이하고 GitHub에 정리 중입니다.  
+  💰 금융 프로젝트에 관심이 많으며, 효율성을 위한 여러 기술공부에 관심이 있습니다.<br>
+  🤖 최근에는 AI, 데이터 분석에도 점점 흥미를 느끼고 있습니다:)
 
   <br>
 </div>
@@ -32,6 +33,7 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
     </td>
@@ -120,7 +122,7 @@
   <tr>
     <td>2024.08</td>
     <td>
-    🎓 [졸업] 국민대 졸업<br>
+    🎓 [졸업] 국민대학교 졸업<br>
     ├─ 제1전공 : 경영학부<br>
     └─ 제2전공 : 소프트웨어학부 (공학사)
     </td>
