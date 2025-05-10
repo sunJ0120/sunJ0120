@@ -8,7 +8,7 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&speed=1&pause=700&color=32CD32&center=true&vCenter=true&width=480&lines=Welcome+to+my+World!;Say+hi+to+my+pup👋🏻+🐶)
 
-  <p>점차 개발에 재미를 붙여가고 있는 <strong>백엔드 개발자 지망생</strong>입니다.</p>
+  <p>개발에 재미를 붙여가고 있는 <strong>백엔드 개발자 지망생</strong>입니다.</p>
 
   🎱  기능의 흐름을 시각적으로 정리하는 걸 좋아합니다 (시퀀스 다이어그램, 와이어프레임 등)<br>
   🧠 <strong>성실함과 꾸준함</strong>을 무기로, 알고리즘을 풀이하고 GitHub에 정리 중입니다.  
