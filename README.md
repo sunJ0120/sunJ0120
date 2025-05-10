@@ -6,8 +6,18 @@
   <br><br>
 
 ![Typing](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&speed=1&pause=700&color=32CD32&center=true&vCenter=true&width=480&lines=Welcome+to+my+World!;Say+hi+to+my+pup👋🏻+🐶)
-
-  <p>개발에 재미를 붙여가고 있는 <strong>백엔드 개발자 지망생</strong>입니다.</p>
+  <h3>개발에 재미를 붙여가고 있는 <strong>백엔드 개발자 지망생</strong>입니다.</h3>
+    <span style="display:inline-block;">
+    <a href="https://www.gitanimals.org/en_US?utm_source=sunJ0120">
+      <img src="https://render.gitanimals.org/lines/sunJ0120?pet-id=709052221727996268" width="200" height="150"/>
+    </a>
+  </span>
+  <span style="display:inline-block;">
+    <a href="https://www.gitanimals.org/en_US?utm_source=sunJ0120">
+      <img src="https://render.gitanimals.org/lines/sunJ0120?pet-id=709052222990483280" width="200" height="150"/>
+    </a>
+  </span>
+</a>
 
   🎱  기능의 흐름을 시각적으로 정리하는 걸 좋아합니다 (시퀀스 다이어그램, 와이어프레임 등)<br>
   🧠 <strong>성실함과 꾸준함</strong>을 무기로, 알고리즘을 풀이하고 GitHub에 정리 중입니다.  
@@ -142,14 +152,6 @@
     <td>🏫 [부트캠프] 신한DS SW 아카데미 ~ing</td>
   </tr>
 </table>
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sunJ0120&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/sunJ0120?pet-id=709052215591730607"
-    width="600"
-    height="120"
-  />
-</a>
         <div>
     </td>
 </table>
