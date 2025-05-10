@@ -142,6 +142,14 @@
     <td>🏫 [부트캠프] 신한DS SW 아카데미 ~ing</td>
   </tr>
 </table>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sunJ0120&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/sunJ0120?pet-id=709052215591730607"
+    width="600"
+    height="120"
+  />
+</a>
         <div>
     </td>
 </table>
