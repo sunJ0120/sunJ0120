@@ -39,6 +39,7 @@
     <th>Database</th>
     <th>Collaboration</th>
     <th>Tools</th>
+    <th>AI Tools</th>
   </tr>
   <tr>
     <td align="center">
@@ -54,6 +55,7 @@
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
     </td>
     <td align="center">
+      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
       <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
@@ -70,6 +72,10 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/draw.io-FF9900?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub%20Copilot-5C6BC0?style=for-the-badge&logo=github&logoColor=white"/>
     </td>
   </tr>
 </table>
