@@ -28,6 +28,7 @@
 </div>
 
 ---
+
 <div align="center">
 
  <h3>💻 My Tech Stack</h3>
@@ -82,6 +83,7 @@
   </tr>
 </table>
 </div>
+
 ---
 
 <div align="center">
