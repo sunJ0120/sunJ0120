@@ -2,7 +2,8 @@
 
 name: Generate Snake
 
-# Action이 언제 구동될지 결정
+permissions:
+  contents: write 
 
 on:
   schedule:
@@ -31,7 +32,7 @@ jobs:
 
       # 변경사항 push
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
