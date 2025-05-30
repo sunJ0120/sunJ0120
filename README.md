@@ -82,12 +82,9 @@
   </tr>
 </table>
 </div>
-<!-- ✅ 하단: 좌우 2단 정렬 (Tech Stack | Favorite + Career 등) -->
-
 ---
 
 <div align="center">
- 
 <h3>😁 Introduce MyStory!</h3>
  <br>
 <table>
@@ -115,7 +112,7 @@
          <br>
         <h3>🧩 Algorithm Level</h3>
           <a href="https://solved.ac/sspure123">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sspure123" alt="solved.ac badge"/>
+            <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sspure123" alt="solved.ac badge"/>
           </a>
        </div>
        <div align="center">
@@ -167,13 +164,10 @@
         
 ---
 
-<!-- ✅ 하단 단독: 알고리즘 / 활동 그래프 -->
 <div align="center">
-
-
-  <h3>📊 GitHub Activity</h3>
-    <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunJ0120&theme=tokyo-night&hide_border=true" />
+  <h3>🐍 My Snake </h3>
+  
+  ![snake gif](https://raw.githubusercontent.com/sunJ0120/sunJ0120/output/github-contribution-grid-snake.svg)
 
 </div>
 
