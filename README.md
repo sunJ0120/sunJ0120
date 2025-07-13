@@ -7,7 +7,8 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&speed=1&pause=700&color=32CD32&center=true&vCenter=true&width=480&lines=Welcome+to+my+World!;Say+hi+to+my+pup👋🏻+🐶)
   <h3>개발에 재미를 붙여가고 있는 <strong>백엔드 개발자 지망생</strong>입니다.</h3>
-    <span style="display:inline-block;">
+  
+  <span style="display:inline-block;">
     <a href="https://www.gitanimals.org/en_US?utm_source=sunJ0120">
       <img src="https://render.gitanimals.org/lines/sunJ0120?pet-id=709052221727996268" width="300" height="150"/>
     </a>
@@ -17,7 +18,6 @@
       <img src="https://render.gitanimals.org/lines/sunJ0120?pet-id=709052222990483280" width="300" height="150"/>
     </a>
   </span>
-</a>
 
   🎱  기능의 흐름을 시각적으로 정리하는 걸 좋아합니다!<br>
   🎱  최근에는 여러 기술과 언어 공부에 관심이 있습니다:)<br>
