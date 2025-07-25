@@ -141,10 +141,10 @@
         
 ---
 
-<div align="center">
+<!-- <div align="center">
   
   ![snake gif](https://raw.githubusercontent.com/sunJ0120/sunJ0120/output/github-contribution-grid-snake.svg)
 
-</div>
+</div> -->
 
 
