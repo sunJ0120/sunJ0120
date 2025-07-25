@@ -5,22 +5,10 @@
   <img src="https://github.com/user-attachments/assets/2d968514-f9e3-4b76-a4ba-579f1c9f2189" width="200" alt="profile-image"/>
   <br><br>
 
-![Typing](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&speed=1&pause=700&color=32CD32&center=true&vCenter=true&width=480&lines=Welcome+to+my+World!;Say+hi+to+my+pup👋🏻+🐶)
-  <h3>개발에 재미를 붙여가고 있는 <strong>백엔드 개발자 지망생</strong>입니다.</h3>
-  
-  <span style="display:inline-block;">
-    <a href="https://www.gitanimals.org/en_US?utm_source=sunJ0120">
-      <img src="https://render.gitanimals.org/lines/sunJ0120?pet-id=709052221727996268" width="300" height="150"/>
-    </a>
-  </span>
-  <span style="display:inline-block;">
-    <a href="https://www.gitanimals.org/en_US?utm_source=sunJ0120">
-      <img src="https://render.gitanimals.org/lines/sunJ0120?pet-id=709052222990483280" width="300" height="150"/>
-    </a>
-  </span>
+![Typing](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&speed=1&pause=700&color=32CD32&center=true&vCenter=true&width=480&lines=Say+hi+to+my+pup👋🏻+🐶)
+  <h3>개발이 즐거운 <strong>백엔드 개발자 지망생</strong>입니다.</h3>
 
-  🎱  기능의 흐름을 시각적으로 정리하는 걸 좋아합니다!<br>
-  🎱  최근에는 여러 기술과 언어 공부에 관심이 있습니다:)<br>
+  👽 배우고 싶은거 써보고 싶은거 싹 다 공부하기
 
   <br>
 </div>
@@ -29,7 +17,7 @@
 
 <div align="center">
 
- <h3>💻 My Tech Stack</h3>
+ <h3>💻 Tech</h3>
  <br>
       <table align="center">
   <tr>
@@ -74,20 +62,20 @@
 ---
 
 <div align="center">
-<h3>😁 Introduce MyStory!</h3>
+<h3>😁 Hello World!</h3>
  <br>
 <table>
   <tr>
     <td width="50%" valign="top">
      <div align="center">
        <br>
-       <h3>🌟 Favorite Language</h3>
+       <h3>🌟 Favorite </h3>
       <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunJ0120&layout=compact&theme=tokyonight" />
         <table align="center">
           <tr>
             <td>
-              🔥
+              ❤️‍🔥
             </td>
             <td>
               <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="25" />
@@ -99,7 +87,7 @@
         </table>
       </p>
          <br>
-        <h3>🧩 Algorithm Level</h3>
+        <h3>😎 Level</h3>
           <a href="https://solved.ac/sspure123">
             <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sspure123" alt="solved.ac badge"/>
           </a>
@@ -154,7 +142,6 @@
 ---
 
 <div align="center">
-  <h3>🐍 My Snake </h3>
   
   ![snake gif](https://raw.githubusercontent.com/sunJ0120/sunJ0120/output/github-contribution-grid-snake.svg)
 
