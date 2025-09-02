@@ -16,8 +16,6 @@
 <div align="center">
 <details>
   <summary><h3>💻 Tech</h3></summary>
-  <div align="center">
-
   🌐 Frontend
   <br>
   <p>
@@ -64,8 +62,6 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   </p>
-
-  </div>
 </details>
 </div>
 
