@@ -13,7 +13,6 @@
   <br>
 </div>
 
-<div align="center">
 <details>
   <summary><h3>💻 Tech</h3></summary>
   🌐 Frontend
@@ -63,12 +62,8 @@
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   </p>
 </details>
-</div>
 
 ---
-
-<div align="center">
-<h3>😁 Hello World!</h3>
  <br>
 <table>
   <tr>
@@ -143,9 +138,13 @@
         <div>
     </td>
 </table>
-</div>
         
 ---
+
+<h3>✒️ 끄적끄적</h3>
+
+- [🎱 Querydsl에서 Entity를 DTO로 자동으로 변환하는 방법과 @QueryProjection의 의존성을 제거하는 방법에 대한 고찰…](https://sunj0120.github.io/jpa/querydsl)
+- [🎱 Redis를 도입해서 캐싱 작업을 진행해보자!!! - 레디스 캐싱전략 고군분투](https://sunj0120.github.io/redis/2)
 
 <!-- <div align="center">
   
