@@ -146,6 +146,7 @@
 - [🎱 Querydsl에서 Entity를 DTO로 자동으로 변환하는 방법과 @QueryProjection의 의존성을 제거하는 방법에 대한 고찰…](https://sunj0120.github.io/jpa/querydsl)
 - [🎱 Redis를 도입해서 캐싱 작업을 진행해보자!!! - 레디스 캐싱전략 고군분투](https://sunj0120.github.io/redis/2)
 - [🎱 생애 첫 투 서버 도전기, 서버 두 개를 클린~하게 운영해보아용 - [1탄] 아키텍처 구조를 왜 이렇게 잡았어?](https://sunj0120.github.io/project/2/architecture)
+- [🎱 생애 첫 투 서버 도전기, 서버 두 개를 클린~하게 운영해보아용 - [2탄] 내가 짠 플로우가 틀렸다고? 개발 도중 플로우 갈아엎기](https://sunj0120.github.io/project/2/sequence)
 
 <!-- <div align="center">
   
