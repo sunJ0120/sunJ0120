@@ -10,11 +10,51 @@
 
   👽 배우고 싶은거 써보고 싶은거 싹 다 공부하기
 
-  <br>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=sunJ0120&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunJ0120&theme=tokyonight&hide_border=true" height="165"/>
 
+
+<br>
+</div>
 <details>
-  <summary><h3>💻 Tech</h3></summary>
+  <summary><h4>🎓 Career & Education</h4></summary>
+  <br>
+  <table>
+  <tr>
+    <th>📅 기간</th>
+    <th>📌 이력</th>
+  </tr>
+  <tr>
+    <td>2024.01</td>
+    <td>📜 [자격증] SQLD</td>
+  </tr>
+  <tr>
+    <td>2024.03~06</td>
+    <td>
+    🪙 [졸업 작품] 45조 - 시간은행 프로젝트<br>
+    └─ 수상 : 2024 KMUCS 다학제간 캡스톤디자인 3등상
+    </td>
+  </tr>
+  <tr>
+    <td>2024.08</td>
+    <td>
+    🎓 [졸업] 국민대학교 졸업<br>
+    ├─ 제1전공 : 경영학부<br>
+    └─ 제2전공 : 소프트웨어학부 (공학사)
+    </td>
+  </tr>
+  <tr>
+    <td>2024.10</td>
+    <td>🛠 [자격증] 정보처리기사</td>
+  </tr>
+  <tr>
+    <td>2025.04 ~ 2025.10</td>
+    <td>🏫 [부트캠프] 신한DS SW 아카데미</td>
+  </tr>
+</table>
+</details>
+<details>
+  <summary><h4>💻 Tech</h4></summary>
   🌐 Frontend
   <br>
   <p>
@@ -62,70 +102,8 @@
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   </p>
 </details>
-
----
- <br>
-<table>
-  <tr>
-    <td width="50%" valign="top">
-     <div align="center">
-       <h3>😎 Level</h3>
-          <a href="https://solved.ac/sspure123">
-            <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sspure123" alt="solved.ac badge"/>
-          </a>
-       <h3>🌟 GitHub Activity</h3>
-        <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=sunJ0120&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-        </p>
-       </div>
-       <div align="center">
-          </div>
-      <br>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-      <h3>🎓 Career & Education</h3>
-      <table align="center">
-  <tr>
-    <th>📅 기간</th>
-    <th>📌 이력</th>
-  </tr>
-  <tr>
-    <td>2024.01</td>
-    <td>📜 [자격증] SQLD</td>
-  </tr>
-  <tr>
-    <td>2024.03~06</td>
-    <td>
-    🪙 [졸업 작품] 45조 - 시간은행 프로젝트<br>
-    └─ 수상 : 2024 KMUCS 다학제간 캡스톤디자인 3등상
-    </td>
-  </tr>
-  <tr>
-    <td>2024.08</td>
-    <td>
-    🎓 [졸업] 국민대학교 졸업<br>
-    ├─ 제1전공 : 경영학부<br>
-    └─ 제2전공 : 소프트웨어학부 (공학사)
-    </td>
-  </tr>
-  <tr>
-    <td>2024.10</td>
-    <td>🛠 [자격증] 정보처리기사</td>
-  </tr>
-  <tr>
-    <td>2025.04 ~ 2025.10</td>
-    <td>🏫 [부트캠프] 신한DS SW 아카데미 ~ing</td>
-  </tr>
-</table>
-        <div>
-    </td>
-</table>
-        
----
-
 <details>
-  <summary><h3>❤️‍🔥 프로젝트</h3></summary>
+  <summary><h4>❤️‍🔥 프로젝트</h4></summary>
   <h4>Team</h4>
   
   - [오굿페이-BE](https://github.com/sunJ0120/OhgoodpayBE)
@@ -135,7 +113,7 @@
   <h4>Personal</h4>
 </details>
 <details>
-  <summary><h3>🤓 스터디 기록</h3></summary>
+  <summary><h4>🤓 스터디 기록</h4></summary>
   
   - [RDBMS - MySQL 정복하기](https://github.com/sunJ0120/RealMySQL)
   - [SPRING 뽀개기](https://github.com/sunJ0120/SPRING_ST)
@@ -143,7 +121,7 @@
   - [개발자 교양 쌓기](https://github.com/sunJ0120/dev-gyoyang)
 </details>
 <details>
-  <summary><h3>✒️ 끄적끄적</h3></summary>
+  <summary><h4>✒️ 끄적끄적</h4></summary>
   
   - [🎱 Querydsl에서 Entity를 DTO로 자동으로 변환하는 방법과 @QueryProjection의 의존성을 제거하는 방법에 대한 고찰…](https://sunj0120.github.io/jpa/querydsl)
   - [🎱 Redis를 도입해서 캐싱 작업을 진행해보자!!! - 레디스 캐싱전략 고군분투](https://sunj0120.github.io/redis/2)
@@ -151,15 +129,5 @@
   - [🎱 생애 첫 투 서버 도전기, 서버 두 개를 클린~하게 운영해보아용 - [2탄] 내가 짠 플로우가 틀렸다고? 개발 도중 플로우 갈아엎기](https://sunj0120.github.io/project/2/sequence)
   - [🎱 깃허브 브랜치 전략에 대한 고찰](https://sunj0120.github.io/project/2/github)
 </details>
-
-
-
-
-
-<!-- <div align="center">
-  
-  ![snake gif](https://raw.githubusercontent.com/sunJ0120/sunJ0120/output/github-contribution-grid-snake.svg)
-
-</div> -->
 
 
