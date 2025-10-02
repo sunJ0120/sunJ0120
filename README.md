@@ -69,37 +69,20 @@
   <tr>
     <td width="50%" valign="top">
      <div align="center">
-       <br>
-       <h3>🌟 Favorite </h3>
-      <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunJ0120&layout=compact&theme=tokyonight" />
-        <table align="center">
-          <tr>
-            <td>
-              ❤️‍🔥
-            </td>
-            <td>
-              <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="25" />
-            </td>
-            <td style="vertical-align: middle; padding-left: 8px;">
-              <span style="font-size: 16px;">love at first compile.</span>
-            </td>
-          </tr>
-        </table>
-      </p>
-         <br>
-        <h3>😎 Level</h3>
+       <h3>😎 Level</h3>
           <a href="https://solved.ac/sspure123">
             <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sspure123" alt="solved.ac badge"/>
           </a>
+       <h3>🌟 GitHub Activity</h3>
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=sunJ0120&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+        </p>
        </div>
        <div align="center">
-         <br>
           </div>
       <br>
     </td>
     <td width="50%" valign="top">
-      <br>
       <div align="center">
       <h3>🎓 Career & Education</h3>
       <table align="center">
@@ -141,13 +124,37 @@
         
 ---
 
-<h3>✒️ 끄적끄적</h3>
+<details>
+  <summary><h3>❤️‍🔥 프로젝트</h3></summary>
+  <h4>Team</h4>
+  
+  - [오굿페이-BE](https://github.com/sunJ0120/OhgoodpayBE)
+  - [오굿페이-ML](https://github.com/sunJ0120/OhgoodpayML)
+  - [오굿푸드](https://github.com/sunJ0120/OhGoodFood-fork)
 
-- [🎱 Querydsl에서 Entity를 DTO로 자동으로 변환하는 방법과 @QueryProjection의 의존성을 제거하는 방법에 대한 고찰…](https://sunj0120.github.io/jpa/querydsl)
-- [🎱 Redis를 도입해서 캐싱 작업을 진행해보자!!! - 레디스 캐싱전략 고군분투](https://sunj0120.github.io/redis/2)
-- [🎱 생애 첫 투 서버 도전기, 서버 두 개를 클린~하게 운영해보아용 - [1탄] 아키텍처 구조를 왜 이렇게 잡았어?](https://sunj0120.github.io/project/2/architecture)
-- [🎱 생애 첫 투 서버 도전기, 서버 두 개를 클린~하게 운영해보아용 - [2탄] 내가 짠 플로우가 틀렸다고? 개발 도중 플로우 갈아엎기](https://sunj0120.github.io/project/2/sequence)
-- [🎱 깃허브 브랜치 전략에 대한 고찰](https://sunj0120.github.io/project/2/github)
+  <h4>Personal</h4>
+</details>
+<details>
+  <summary><h3>🤓 스터디 기록</h3></summary>
+  
+  - [RDBMS - MySQL 정복하기](https://github.com/sunJ0120/RealMySQL)
+  - [SPRING 뽀개기](https://github.com/sunJ0120/SPRING_ST)
+  - [FLUTTER 즐기기](https://github.com/sunJ0120/FLUTTER_ST)
+  - [개발자 교양 쌓기](https://github.com/sunJ0120/dev-gyoyang)
+</details>
+<details>
+  <summary><h3>✒️ 끄적끄적</h3></summary>
+  
+  - [🎱 Querydsl에서 Entity를 DTO로 자동으로 변환하는 방법과 @QueryProjection의 의존성을 제거하는 방법에 대한 고찰…](https://sunj0120.github.io/jpa/querydsl)
+  - [🎱 Redis를 도입해서 캐싱 작업을 진행해보자!!! - 레디스 캐싱전략 고군분투](https://sunj0120.github.io/redis/2)
+  - [🎱 생애 첫 투 서버 도전기, 서버 두 개를 클린~하게 운영해보아용 - [1탄] 아키텍처 구조를 왜 이렇게 잡았어?](https://sunj0120.github.io/project/2/architecture)
+  - [🎱 생애 첫 투 서버 도전기, 서버 두 개를 클린~하게 운영해보아용 - [2탄] 내가 짠 플로우가 틀렸다고? 개발 도중 플로우 갈아엎기](https://sunj0120.github.io/project/2/sequence)
+  - [🎱 깃허브 브랜치 전략에 대한 고찰](https://sunj0120.github.io/project/2/github)
+</details>
+
+
+
+
 
 <!-- <div align="center">
   
