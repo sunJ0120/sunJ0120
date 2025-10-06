@@ -112,6 +112,12 @@
   - [오굿푸드](https://github.com/sunJ0120/OhGoodFood-fork)
 
   <h4>Personal</h4>
+  
+  - Toy (Study)
+    - [🚀 MySQL 성능 최적화 - 인덱스로 쿼리 속도 **83배** 개선하기!](https://github.com/sunJ0120/RealMySQL/tree/main/8_index/toy/index_test)
+
+  - Main
+  
 </details>
 <details>
   <summary><h4>🤓 스터디 기록</h4></summary>
