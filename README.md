@@ -1,20 +1,9 @@
 
 <!-- ✅ 상단: 사진 + 타이핑 + 소개글 (중앙 정렬) -->
 <div align="center">
-  <br>
-  <img src="https://github.com/user-attachments/assets/2d968514-f9e3-4b76-a4ba-579f1c9f2189" width="200" alt="profile-image"/>
-  <br><br>
-
-![Typing](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&speed=1&pause=700&color=32CD32&center=true&vCenter=true&width=480&lines=Say+hi+to+my+pup👋🏻+🐶)
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
   <h3>개발이 즐거운 <strong>백엔드 개발자 지망생</strong>입니다.</h3>
-
   👽 배우고 싶은거 써보고 싶은거 싹 다 공부하기
-
-<img src="https://github-readme-stats.vercel.app/api?username=sunJ0120&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunJ0120&theme=tokyonight&hide_border=true" height="165"/>
-
-
-<br>
 </div>
 <details>
   <summary><h4>🎓 Career & Education</h4></summary>
