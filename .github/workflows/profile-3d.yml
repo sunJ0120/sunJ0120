@@ -21,7 +21,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: |
             {
-              "type": "git block version"
+              "type": "block"
             }
       - name: Commit & Push
         run: |
