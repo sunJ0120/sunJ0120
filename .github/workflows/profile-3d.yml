@@ -19,10 +19,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SUNJ_PERSONAL_ACCESS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: |
-            {
-              "type": "block"
-            }
       - name: Commit & Push
         run: |
           git config user.name github-actions
