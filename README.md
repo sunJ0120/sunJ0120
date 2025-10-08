@@ -1,9 +1,9 @@
 
 <!-- ✅ 상단: 사진 + 타이핑 + 소개글 (중앙 정렬) -->
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
-  <h3>개발이 즐거운 <strong>백엔드 개발자 지망생</strong>입니다.</h3>
-  👽 배우고 싶은거 써보고 싶은거 싹 다 공부하기
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+      <h3>개발이 즐거운 <strong>백엔드 개발자 지망생</strong>입니다.</h3>
+    👽 배우고 싶은거 써보고 싶은거 싹 다 공부하기
 </div>
 <details>
   <summary><h4>🎓 Career & Education</h4></summary>
