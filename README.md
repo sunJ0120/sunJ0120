@@ -6,7 +6,7 @@
     💪🏻 글처럼 읽히되, 튼튼하게!
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,redis,docker,dart&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,redis,docker,prometheus,grafana" />
 </div>
 <details>
   <summary><h4>🎓 Career & Education</h4></summary>
