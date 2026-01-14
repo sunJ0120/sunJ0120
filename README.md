@@ -3,7 +3,6 @@
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
       <h3>개발이 즐거운 <strong>백엔드 개발자 지망생</strong>입니다.</h3>
-    💡 최근에는 블록체인과 분산 시스템에 관심이 있습니다.
     <br>
     <br>
     <img src="https://skillicons.dev/icons?i=java,rust,spring,mysql,redis,docker,prometheus,grafana" />
