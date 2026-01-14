@@ -2,10 +2,8 @@
 <!-- ✅ 상단: 사진 + 타이핑 + 소개글 (중앙 정렬) -->
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-      <h3>개발이 즐거운 <strong>백엔드 개발자 지망생</strong>입니다.</h3>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=java,rust,spring,mysql,redis,docker,prometheus,grafana" />
+      <h3>😋 개발이 즐거운 <strong>백엔드 개발자 지망생</strong>입니다.</h3>
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,prometheus,grafana" />
 </div>
 <details>
   <summary><h4>🎓 Career & Education</h4></summary>
