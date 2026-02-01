@@ -47,7 +47,13 @@
   </tr>
   <tr>
     <td>2026.1.31 ~ 2026.07.11</td>
-    <td>⚡ [IT 연합 동아리] JECT 4기 BE</td>
+    <td>🙌 [IT 연합 동아리] JECT 4기 BE</td>
+  </tr>
+  <tr>
+    <td>2026.2.1 ~ 2026.02.12</td>
+    <td>⚡ [해커톤] 블레이버스 MVP 해커톤<br>
+      └─ DOSA : 공대생 학습 도음 커뮤니티 (FULL STACK) 
+    </td>
   </tr>
 </table>
 </details>
