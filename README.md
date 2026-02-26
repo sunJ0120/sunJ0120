@@ -2,7 +2,7 @@
 <!-- ✅ 상단: 사진 + 타이핑 + 소개글 (중앙 정렬) -->
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-      <h3>😋 개발이 즐거운 <strong>백엔드 개발자 지망생</strong>입니다.</h3>
+      <h3>😋 개발이 즐거운 <strong>백엔드 개발자</strong>입니다.</h3>
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,prometheus,grafana" />
 </div>
 <details>
@@ -40,10 +40,6 @@
   <tr>
     <td>2025.04.01 ~ 2025.10.01</td>
     <td>🏫 [부트캠프] 신한DS SW 아카데미</td>
-  </tr>
-  <tr>
-    <td>2025.10.14 ~ 2025.11.25</td>
-    <td>🔥 [우테코] 8기 BE 프리코스 참여</td>
   </tr>
   <tr>
     <td>2026.1.31 ~ 2026.07.11</td>
