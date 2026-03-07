@@ -51,6 +51,11 @@
       └─ DOSA : 공대생 학습 도음 커뮤니티 (FULL STACK) 
     </td>
   </tr>
+  <tr>
+    <td>2026.3.9 ~ </td>
+    <td>🏢 유영 인포테크 - 백엔드 개발자<br>
+    </td>
+  </tr>
 </table>
 </details>
 
