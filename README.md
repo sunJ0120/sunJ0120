@@ -4,59 +4,22 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
       <h3>😋 개발이 즐거운 <strong>백엔드 개발자</strong>입니다.</h3>
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,prometheus,grafana" />
+
+  <br/>
+
+  <h4>🌱 Now Learning</h4>
+  <img src="https://skillicons.dev/icons?i=rust" />
+  <br/>
+  <sub>Real MySQL &nbsp;|&nbsp; System Architecture &nbsp;|&nbsp; Rust</sub>
+
+  <br/>
+
+  <h4>🔭 Interested In</h4>
+  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+  <br/>
+  <sub>PostgreSQL &nbsp;|&nbsp; Solana Blockchain</sub>
 </div>
-<details>
-  <summary><h4>🎓 Career & Education</h4></summary>
-  <br>
-  <table>
-  <tr>
-    <th>📅 기간</th>
-    <th>📌 이력</th>
-  </tr>
-  <tr>
-    <td>2024.01</td>
-    <td>🛠 [자격증] SQLD</td>
-  </tr>
-  <tr>
-    <td>2024.03~06</td>
-    <td>
-    🪙 [졸업 작품] 45조 - 시간은행 프로젝트<br>
-    ├─ 수상 : 2024 KMUCS 다학제간 캡스톤디자인 🏆3등상<br>
-    └─ 수상 : LINC 3.0 사업단 커뮤니티 상생센터 성과 공유회 🏆대상
-    </td>
-  </tr>
-  <tr>
-    <td>2024.08</td>
-    <td>
-    🎓 [졸업] 국민대학교 졸업<br>
-    ├─ 제1전공 : 경영학부<br>
-    └─ 제2전공 : 소프트웨어학부 (공학사)
-    </td>
-  </tr>
-  <tr>
-    <td>2024.10</td>
-    <td>🛠 [자격증] 정보처리기사</td>
-  </tr>
-  <tr>
-    <td>2025.04.01 ~ 2025.10.01</td>
-    <td>🏫 [부트캠프] 신한DS SW 아카데미</td>
-  </tr>
-  <tr>
-    <td>2026.1.31 ~ 2026.07.11</td>
-    <td>🙌 [IT 연합 동아리] JECT 4기 BE</td>
-  </tr>
-  <tr>
-    <td>2026.2.1 ~ 2026.02.12</td>
-    <td>⚡ [해커톤] 블레이버스 MVP 해커톤<br>
-      └─ DOSA : 공대생 학습 도음 커뮤니티 (FULL STACK) 
-    </td>
-  </tr>
-  <tr>
-    <td>2026.3.9 ~ </td>
-    <td>🏢 유영 인포테크 - 백엔드 개발자<br>
-    </td>
-  </tr>
-</table>
-</details>
 
 
