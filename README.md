@@ -8,9 +8,9 @@
   <br/>
 
   <h4>🌱 Now Learning</h4>
-  <img src="https://skillicons.dev/icons?i=rust" />
+  <img src="https://skillicons.dev/icons?i=rust,typescript" />
   <br/>
-  <sub>Real MySQL &nbsp;|&nbsp; System Architecture &nbsp;|&nbsp; Rust</sub>
+  <sub>Real MySQL &nbsp;|&nbsp; System Architecture &nbsp;|&nbsp; Rust &nbsp; TS</sub>
 
   <br/>
 
